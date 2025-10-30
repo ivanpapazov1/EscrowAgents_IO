@@ -10,13 +10,13 @@ Run to install the libraries
 pip install -r requirements
 ```
 First you need to run the midlleman and get his address from the output of the program
-![It should look something like this](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![It should look something like this](README/agent_address.png)
 After that paste the address in the designated places in the buyer and seller scripts.
 
 ## Running
 Middleman should be running at all time.
 If you are running in VS code the easiest way be running all scripts at the same is to run them in a deddicated terminal.
-![Here is the button](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Here is the button](README/dedicated terminal.png)
 
 Run seller and select what you want to sell and buy for.
 The currencies for now are:
