@@ -16,7 +16,7 @@ After that paste the address in the designated places in the buyer and seller sc
 ## Running
 Middleman should be running at all time.
 If you are running in VS code the easiest way be running all scripts at the same is to run them in a deddicated terminal.
-![Here is the button](README/dedicated terminal.png)
+![Here is the button](README/dedicated_terminal.png)
 
 Run seller and select what you want to sell and buy for.
 The currencies for now are:
